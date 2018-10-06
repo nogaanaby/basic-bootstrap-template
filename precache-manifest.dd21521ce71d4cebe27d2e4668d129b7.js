@@ -1,35 +1,51 @@
 self.__precacheManifest = [
   {
-    "revision": "73fe7f1effbf382f499831a0a9f18626",
-    "url": "/olamay-hen2/static/media/fa-regular-400.73fe7f1e.ttf"
+    "revision": "381af09a1366b6c2ae65eac5dd6f0588",
+    "url": "/olamay-hen2/static/media/fa-regular-400.381af09a.woff"
   },
   {
-    "revision": "96597ad90b1caab9fd37",
-    "url": "/olamay-hen2/static/css/main.a97c4157.chunk.css"
+    "revision": "79502aeede72952b886a",
+    "url": "/olamay-hen2/static/css/main.3ed8e177.chunk.css"
   },
   {
     "revision": "38508b2e7fac045869a86a15936433f7",
     "url": "/olamay-hen2/static/media/fa-solid-900.38508b2e.svg"
   },
   {
-    "revision": "fe8fa16d9b3c54bda0fa",
-    "url": "/olamay-hen2/static/js/1.fe8fa16d.chunk.js"
+    "revision": "6c4ef2a9be33c03819f6",
+    "url": "/olamay-hen2/static/js/1.6c4ef2a9.chunk.js"
   },
   {
     "revision": "27478d149434af578235",
     "url": "/olamay-hen2/static/js/runtime~main.27478d14.js"
   },
   {
-    "revision": "d45b7b6bf3be9f818382354aafec2f4c",
-    "url": "/olamay-hen2/static/media/day.d45b7b6b.png"
-  },
-  {
     "revision": "6e30e92ceec11448867711d0f68dcf6c",
     "url": "/olamay-hen2/static/media/china.6e30e92c.png"
   },
   {
+    "revision": "636ddc5fc7b712ddea43d08963ddfaef",
+    "url": "/olamay-hen2/static/media/location.636ddc5f.png"
+  },
+  {
     "revision": "66a6820d6b460b711a37435206c63359",
     "url": "/olamay-hen2/static/media/london.66a6820d.png"
+  },
+  {
+    "revision": "d45b7b6bf3be9f818382354aafec2f4c",
+    "url": "/olamay-hen2/static/media/day.d45b7b6b.png"
+  },
+  {
+    "revision": "d0424d40ac439dd1149736fba5130e62",
+    "url": "/olamay-hen2/static/media/paris.d0424d40.png"
+  },
+  {
+    "revision": "3945307f544a5da35cb05effba13bbc1",
+    "url": "/olamay-hen2/static/media/japan.3945307f.png"
+  },
+  {
+    "revision": "09370c616a4f648a0a26468b97bbdea7",
+    "url": "/olamay-hen2/static/media/night.09370c61.png"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
@@ -40,16 +56,16 @@ self.__precacheManifest = [
     "url": "/olamay-hen2/static/media/fa-regular-400.949a2b06.woff2"
   },
   {
-    "revision": "381af09a1366b6c2ae65eac5dd6f0588",
-    "url": "/olamay-hen2/static/media/fa-regular-400.381af09a.woff"
+    "revision": "79502aeede72952b886a",
+    "url": "/olamay-hen2/static/js/main.79502aee.chunk.js"
   },
   {
     "revision": "7422060ca379ee9939d3b687d072acad",
     "url": "/olamay-hen2/static/media/fa-regular-400.7422060c.eot"
   },
   {
-    "revision": "96597ad90b1caab9fd37",
-    "url": "/olamay-hen2/static/js/main.96597ad9.chunk.js"
+    "revision": "73fe7f1effbf382f499831a0a9f18626",
+    "url": "/olamay-hen2/static/media/fa-regular-400.73fe7f1e.ttf"
   },
   {
     "revision": "48461ea4e797c9774dabb4a0440d2f56",
@@ -92,11 +108,11 @@ self.__precacheManifest = [
     "url": "/olamay-hen2/static/media/fa-brands-400.b5472631.svg"
   },
   {
-    "revision": "fe8fa16d9b3c54bda0fa",
-    "url": "/olamay-hen2/static/css/1.2b949814.chunk.css"
+    "revision": "6c4ef2a9be33c03819f6",
+    "url": "/olamay-hen2/static/css/1.fa35b929.chunk.css"
   },
   {
-    "revision": "6dafbb58ef6c5d66a1de7c96ab89412e",
+    "revision": "383a2be086afc591200009d633fe7698",
     "url": "/olamay-hen2/index.html"
   }
 ];
