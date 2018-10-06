@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import china from '../../turrists/china.png';
+import location from '../../turrists/location.png';
 import './header.css';
 
 class Header extends Component {
@@ -16,10 +17,15 @@ class Header extends Component {
     return ( 
       <div>
         <nav className="navbar fixed-top navbar-expand-md navbar-banana navbar-light">
-        <a className="navbar-brand" href="#home">
-          <img src={china} width="100" height="100" alt=""/>
-          Tourists Guide
-        </a>
+        <div className="navbar-logo">
+          <a className="" href="#home">
+            <img src={location} width="40" height="40" alt=""/>
+          </a>
+          <span className="logoSpan">
+              <small className="subtitle">Your Tourists</small>
+              <h4><b>Guide</b></h4>
+          </span>
+        </div>
           <button className="navbar-toggler" type="button"
             data-toggle="collapse" data-target="#navbar_collapse" 
             aria-controls="navbarTogglerDemo01" aria-expanded="false"
@@ -39,17 +45,25 @@ class Header extends Component {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#places">places</a>
+                <a className="nav-link" href="#places"
+                  onClick={() => this.props.scrollTo('places')}
+                  data-toggle="collapse" data-target="#navbar_collapse" 
+                  aria-controls="navbarTogglerDemo01" aria-expanded="false"
+                  aria-label="Toggle navigation">Places</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#about">about</a>
+                <a className="nav-link" href="#about"
+                  onClick={() => this.props.scrollTo('about')}
+                  data-toggle="collapse" data-target="#navbar_collapse" 
+                  aria-controls="navbarTogglerDemo01" aria-expanded="false"
+                  aria-label="Toggle navigation">About</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#contact"
                   onClick={() => this.props.scrollTo('contact')}
                   data-toggle="collapse" data-target="#navbar_collapse" 
                   aria-controls="navbarTogglerDemo01" aria-expanded="false"
-                  aria-label="Toggle navigation">contact</a>
+                  aria-label="Toggle navigation">Contact</a>
               </li>
             </ul>
           </div>
