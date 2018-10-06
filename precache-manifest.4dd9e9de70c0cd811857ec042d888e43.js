@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/olamay-hen2/static/media/fa-regular-400.73fe7f1e.ttf"
   },
   {
-    "revision": "1ff4c4dd4d4183b8062e",
-    "url": "/olamay-hen2/static/css/main.727a77c4.chunk.css"
+    "revision": "24e0b31ba3a59a5cc37c",
+    "url": "/olamay-hen2/static/css/main.0222ad3a.chunk.css"
   },
   {
     "revision": "38508b2e7fac045869a86a15936433f7",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/olamay-hen2/static/media/fa-regular-400.7422060c.eot"
   },
   {
-    "revision": "1ff4c4dd4d4183b8062e",
-    "url": "/olamay-hen2/static/js/main.1ff4c4dd.chunk.js"
+    "revision": "24e0b31ba3a59a5cc37c",
+    "url": "/olamay-hen2/static/js/main.24e0b31b.chunk.js"
   },
   {
     "revision": "48461ea4e797c9774dabb4a0440d2f56",
@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "/olamay-hen2/static/media/fa-regular-400.b5a61b22.svg"
   },
   {
-    "revision": "70e65a7d34902f2c350816ecfe2f6492",
-    "url": "/olamay-hen2/static/media/fa-solid-900.70e65a7d.eot"
-  },
-  {
     "revision": "0079a0ab6bec4da7d6e16f2a2e87cd71",
     "url": "/olamay-hen2/static/media/fa-solid-900.0079a0ab.ttf"
+  },
+  {
+    "revision": "70e65a7d34902f2c350816ecfe2f6492",
+    "url": "/olamay-hen2/static/media/fa-solid-900.70e65a7d.eot"
   },
   {
     "revision": "b5472631dbace30d549357ec325b9c62",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/olamay-hen2/static/css/1.51394206.chunk.css"
   },
   {
-    "revision": "2c878af76d9d29212094241eb53ce915",
+    "revision": "91cbae66b817c7ecfd55abd5d55db35d",
     "url": "/olamay-hen2/index.html"
   }
 ];
