@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/olamay-hen2/precache-manifest.4dd9e9de70c0cd811857ec042d888e43.js"
+  "/olamay-hen2/precache-manifest.270b4838a0a91023d06349e864fdcad6.js"
 );
 
 workbox.clientsClaim();
