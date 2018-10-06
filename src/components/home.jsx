@@ -8,7 +8,7 @@ class Home extends Component {
     return ( 
       <div className="page home">
         <a href="#">
-          <img src={london} width="200" height="200" alt=""/>
+          <img className="homeLogo" src={london} width="200" height="200" alt=""/>
         </a>
         <h1 className="title">London</h1>
         <h5 className="subTitle">Best City Ever</h5>
