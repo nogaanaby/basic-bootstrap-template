@@ -6,6 +6,7 @@ class Contact extends Component {
   render() { 
     return ( 
       <div className="contact">
+      <img className="day" src={day} width="350" height="150" alt=""/>
         <form className="form">
           <div className="form-group">
             <label>Email address</label>
@@ -17,7 +18,6 @@ class Contact extends Component {
           </div>
           <button type="submit" className="btn btn-info">Submit</button>
         </form>
-        <img className="day" src={day} width="350" height="150" alt=""/>
       </div> 
     );
   }

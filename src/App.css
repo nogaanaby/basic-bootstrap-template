@@ -27,14 +27,14 @@
 
 .home{
   flex-direction: column;
-  min-height: 80vh;
+  min-height: 120vh;
   width: 80%;
   margin: auto;
 }
 
 .contact{
   background-color: #B2D9D3;  
-  min-height: 100vh;
+  min-height: 80vh;
   display: flex;
   flex-direction: column;
 }
@@ -53,10 +53,10 @@
 }
 .navbar-green{
   background-color: #fff9e5;
+  padding: 0;
 }
 
 .day{
-  position: absolute;
   right: 0;
 }
 
@@ -64,4 +64,8 @@
   width: 60%;
   margin: auto;
   text-align: left;
+}
+
+.collapse .navbar-collapse{
+  height: 7rem;
 }
