@@ -9,8 +9,11 @@ class Home extends Component {
       <div className="page home">
       <Template1
         title='London'
+        titleClassName='title'
+        subtitleClassName='subtitle'
+        pClassName='small'
         subtitle='Best City Ever'
-        paragraph='Tables are slightly adjusted to style, collapse borders, and ensure consistent text-align throughout. Additional changes for borders, padding, and more come with the .table class.Tables are slightly adjusted to style, collapse borders, and ensure consistent text-align throughout. Additional changes for borders, padding, and more come with the .table class.'>
+        paragraph='Tables are slightly adjusted to style, collapse borders, and ensure consistent.'>
         <img className="homeLogo" src={london} width="200" height="200" alt=""/>
       </Template1>
       </div> 

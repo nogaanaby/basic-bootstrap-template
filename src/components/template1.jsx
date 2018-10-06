@@ -13,9 +13,9 @@ class Template1 extends Component {
         <a href="#">
           {this.props.children}
         </a>
-        <h1 className="title">{this.props.title}</h1>
-        <h5 className="subTitle">{this.props.subtitle}</h5>
-        <small className="form-text text-muted">{this.props.paragraph}</small>
+        <h1 className={this.props.titleClassName}>{this.props.title}</h1>
+        <h5 className={this.props.subtitleClassName}>{this.props.subtitle}</h5>
+        <small className={this.props.pClassName}>{this.props.paragraph}</small>
       </div> 
     );
   }
