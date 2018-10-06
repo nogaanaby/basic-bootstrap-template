@@ -2,9 +2,8 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import Header from './components/header/header'
 import Home from './components/home'
-import Contact from './components/contact'
+import Contact from './components/contact/contact'
 import Places from './components/places'
-import About from './components/about'
 import './App.css';
 
 class App extends Component {
@@ -32,7 +31,7 @@ class App extends Component {
           <Contact/>
         </div>
         <div ref="about">
-          <About/>
+          
         </div>
       </div>
     );

@@ -40,12 +40,6 @@
   margin-top: 50%;
 }
 
-.contact{
-  background-color: #B2D9D3;  
-  min-height: 78vh;
-  display: flex;
-  flex-direction: column;
-}
 
 .App-link {
   color: #61dafb;
@@ -58,15 +52,6 @@
   to {
     transform: rotate(360deg);
   }
-}
-.day{
-  right: 0;
-}
-
-.form{
-  width: 60%;
-  margin: auto;
-  text-align: left;
 }
 
 .places{
@@ -91,22 +76,3 @@
   font-size: 0.6em;
 }
 
-.about{
-  background-color: #2C3345;
-  min-height: 78vh;
-  display: flex;
-  flex-direction: row-reverse;
-}
-.details{
-  display: flex;
-  flex-direction: column;
-  color: white;
-  text-align: left;
-  padding-top: 2%;
-}
-.detail{
-  padding-top: 17%;  
-}
-.night{
-  height: 78vh;
-}

@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-import day from '../turrists/day.png';
-
-class Contact extends Component {
+import day from '../../turrists/day.png';
+import './contact.css';
+class Form extends Component {
   state = {  }
   render() { 
     return ( 
-      <div className="contact">
+      <div className="contactForm">
       <img className="day" src={day} width="350" height="150" alt=""/>
         <form className="form">
           <h4>Write Us A Message!</h4>
@@ -24,4 +24,4 @@ class Contact extends Component {
   }
 }
  
-export default Contact;
+export default Form;
