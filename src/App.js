@@ -6,12 +6,26 @@ import Contact from './components/contact'
 import './App.css';
 
 class App extends Component {
+
+  state = {
+    currpage: ''
+  }
+
+  scroll = (page) => {
+    this.refs[page].scrollIntoView({block: 'end', behavior: 'smooth'});
+  }
+
   render() {
     return (
       <div className="App">
-      <Header></Header>
-        <Home></Home>
-        <Contact></Contact>
+      <Header
+       scrollTo={this.scroll}/>
+        <div ref="home">
+          <Home/>
+        </div>
+        <div ref="contact">
+          <Contact/>
+        </div>
       </div>
     );
   }
