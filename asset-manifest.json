@@ -1,7 +1,7 @@
 {
-  "main.css": "/basic-bootstrap-template/static/css/main.d77a837f.chunk.css",
-  "main.js": "/basic-bootstrap-template/static/js/main.3d13a3e8.chunk.js",
-  "main.js.map": "/basic-bootstrap-template/static/js/main.3d13a3e8.chunk.js.map",
+  "main.css": "/basic-bootstrap-template/static/css/main.7e47c52c.chunk.css",
+  "main.js": "/basic-bootstrap-template/static/js/main.6349b996.chunk.js",
+  "main.js.map": "/basic-bootstrap-template/static/js/main.6349b996.chunk.js.map",
   "static/css/1.44adde72.chunk.css": "/basic-bootstrap-template/static/css/1.44adde72.chunk.css",
   "static/js/1.1863dc64.chunk.js": "/basic-bootstrap-template/static/js/1.1863dc64.chunk.js",
   "static/js/1.1863dc64.chunk.js.map": "/basic-bootstrap-template/static/js/1.1863dc64.chunk.js.map",
@@ -20,9 +20,9 @@
   "static/media/roma.png": "/basic-bootstrap-template/static/media/roma.9d0c178d.png",
   "static/media/logo.svg": "/basic-bootstrap-template/static/media/logo.5d5d9eef.svg",
   "static/media/london.png": "/basic-bootstrap-template/static/media/london.66a6820d.png",
-  "static/css/main.d77a837f.chunk.css.map": "/basic-bootstrap-template/static/css/main.d77a837f.chunk.css.map",
+  "static/css/main.7e47c52c.chunk.css.map": "/basic-bootstrap-template/static/css/main.7e47c52c.chunk.css.map",
   "static/css/1.44adde72.chunk.css.map": "/basic-bootstrap-template/static/css/1.44adde72.chunk.css.map",
   "index.html": "/basic-bootstrap-template/index.html",
-  "precache-manifest.ff945de9c9c1c0f8dfda12cdf3728d0f.js": "/basic-bootstrap-template/precache-manifest.ff945de9c9c1c0f8dfda12cdf3728d0f.js",
+  "precache-manifest.03a212c1b8be7f34a53a34f013a773ed.js": "/basic-bootstrap-template/precache-manifest.03a212c1b8be7f34a53a34f013a773ed.js",
   "service-worker.js": "/basic-bootstrap-template/service-worker.js"
 }
