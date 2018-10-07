@@ -40,7 +40,7 @@
     display: block;
     position: absolute;
     z-index: 1;
-    margin-left: 10%; 
+    margin-left: 2%; 
   }
   
   .detail1{
@@ -52,11 +52,11 @@
   }
 
   .contactDetails{
-    width: 65%;
+    width: 100%;
   }
 
   .contactForm{
-    width: 35%;
+    width: 100%;
   }
 
 }
@@ -64,13 +64,13 @@
 
 .contactForm{
   background-color: #B2D9D3;  
-  min-height: 77vh;
+  min-height: 90vh;
   display: flex;
   flex-direction: column;
 }
 
 .contactDetails{
-  min-height: 77vh;
+  min-height: 90vh;
   display: flex;
 }
 .details{
@@ -82,7 +82,7 @@
 }
 
 .night{
-  height: 78vh;
+  height: 90vh;
 }
 
 .day{

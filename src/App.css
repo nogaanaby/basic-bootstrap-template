@@ -66,11 +66,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #fff9e5;
+  background-color: #E3A357;
 }
 .carusel{
-  background-color: #fff9e5;
-  height: 85vh;
+  background-color: #E3A357;
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -81,8 +81,9 @@
   padding-top: 5%;
 }
 
-.carousel .slide{
+.carousel, .slide{
   width: 90%;
+  margin-bottom: 5%;
 }
 .place{
   margin-left: 2%;
@@ -100,7 +101,7 @@
 }
 
 .about{
-  height: 79vh;
+  height: 100vh;
 }
 
 .title-is-2{

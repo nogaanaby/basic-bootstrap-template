@@ -21,10 +21,6 @@ class Header extends Component {
           <a className="" href="#home">
             <img src={location} width="40" height="40" alt=""/>
           </a>
-          <span className="logoSpan">
-              <small className="subtitle">Your Tourists</small>
-              <h4><b>Guide</b></h4>
-          </span>
         </div>
           <button className="navbar-toggler" type="button"
             data-toggle="collapse" data-target="#navbar_collapse" 
@@ -57,6 +53,13 @@ class Header extends Component {
                   data-toggle="collapse" data-target="#navbar_collapse" 
                   aria-controls="navbarTogglerDemo01" aria-expanded="false"
                   aria-label="Toggle navigation">About</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="#sayHello"
+                  onClick={() => this.props.scrollTo('seyHello')}
+                  data-toggle="collapse" data-target="#navbar_collapse" 
+                  aria-controls="navbarTogglerDemo01" aria-expanded="false"
+                  aria-label="Toggle navigation">Sey Hello</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#contact"

@@ -2,7 +2,7 @@
   "name": "olamay-hen2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nogaanaby.github.io/olamay-hen2",
+  "homepage": "https://nogaanaby.github.io/basic-bootstrap-template",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.3.1",
     "bootstrap": "^4.1.3",

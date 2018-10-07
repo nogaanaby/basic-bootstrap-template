@@ -8,11 +8,11 @@ class About extends Component {
     return (
       <div className="page about">
       <Template1
-        title='Your Turrists Guids'
+        title='Your City Guide'
         titleClassName='title-is-2'
         subtitleClassName='subtitle-is-2'
         pClassName='small-p'
-        subtitle='Hello, We Are So Awsome'
+        subtitle='Hello, We Are So Awesome'
         paragraph='Tables are slightly adjusted to style, collapse borders, and ensure consistent.
         Tables are slightly adjusted to style, collapse borders, and ensure consistent.'>
         <img className="map-logo" src={map} width="240" height="130" alt=""/>
