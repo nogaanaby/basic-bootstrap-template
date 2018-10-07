@@ -9,7 +9,7 @@ class Template1 extends Component {
   }
   render() { 
     return ( 
-      <div className="page home">
+      <div className="page">
         <a href="#">
           {this.props.children}
         </a>

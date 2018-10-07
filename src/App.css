@@ -27,6 +27,9 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  flex-direction: column;
+  width: 80%;
+  margin: auto;
 }
 
 .home{
@@ -38,6 +41,10 @@
 
 .homeLogo{
   margin-top: 50%;
+}
+
+.map-logo{
+  margin: 40px;
 }
 
 
@@ -56,10 +63,26 @@
 
 .places{
   flex-direction: row;
-  min-height: 60vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #fff9e5;
+}
+.carusel{
+  background-color: #fff9e5;
+  height: 85vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.carusel-title{
+  font-weight: bold;
+  font-size: 1.5em;
+  padding-top: 5%;
+}
+
+.carousel .slide{
+  width: 90%;
 }
 .place{
   margin-left: 2%;
@@ -70,9 +93,21 @@
   font-weight: bold;
 }
 .place-subtitle{
-  font-size: 0.8em;
-}
-.place-p{
   font-size: 0.6em;
+}
+.small-p{
+  font-size: 0.6em;
+}
+
+.about{
+  height: 79vh;
+}
+
+.title-is-2{
+  font-size: 1.2em;
+}
+
+.subtitle-is-2{
+  font-size: 0.8em;  
 }
 

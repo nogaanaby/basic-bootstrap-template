@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import night from '../../turrists/night2.png';
+import night from '../../turrists/night.png';
 import './contact.css';
 class Details extends Component {
   state = {  }

@@ -3,7 +3,8 @@ import logo from './logo.svg';
 import Header from './components/header/header'
 import Home from './components/home'
 import Contact from './components/contact/contact'
-import Places from './components/places'
+import About from './components/about'
+import Carusel from './components/carusel'
 import './App.css';
 
 class App extends Component {
@@ -25,13 +26,13 @@ class App extends Component {
           <Home/>
         </div>
         <div ref="places">
-          <Places/>
+          <Carusel/>
+        </div>
+        <div ref="about">
+          <About/>
         </div>
         <div ref="contact">
           <Contact/>
-        </div>
-        <div ref="about">
-          
         </div>
       </div>
     );
